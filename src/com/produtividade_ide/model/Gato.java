@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class Gato {
 	// Atributos da classe
+	
 	private String nome;
 	private String cor;
 	private Integer idade;
