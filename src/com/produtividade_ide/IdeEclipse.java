@@ -14,6 +14,8 @@ public class IdeEclipse {
 	System.out.println("Linha adicionada");
 	
 	System.out.println("....");
+
+	System.out.println("Linha editada diretamente do nano");
 	
 	}
 }
