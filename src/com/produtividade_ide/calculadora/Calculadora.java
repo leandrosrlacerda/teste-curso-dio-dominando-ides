@@ -21,11 +21,11 @@ public class Calculadora {
 		
 		System.out.println("\nO valor da MULTIPLICAÇÃO é: " + multiplicacao(a, b));
 		
-		System.out.println("\nO valor da DIVISÃO é: " + divisao(a, b));
+ 		System.out.println("\nO valor da DIVISÃO é: " + divisao(a, b));
 		
 		
 	}
-
+ 
 	public static int soma(int a, int b) {
 
 		return a + b;
@@ -41,7 +41,7 @@ public class Calculadora {
 		return a * b;
 	}
 
-	public static int divisao(int a, int b) {
+	public static double divisao(double a, double b) {
 
 		return a / b;
 	}
